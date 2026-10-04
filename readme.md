@@ -1,6 +1,6 @@
 # Image Enhancer API
 
-A small FastAPI service that takes an image, sends it to Gemini for enhancement, and returns the enhanced image. No database, no storage, no auth. Upload in, enhanced image out.
+A small FastAPI service that takes an image, sends it to Gemini for enhancement, and returns the enhanced image
 
 ## Status
 
